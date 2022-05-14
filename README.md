@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Christian Franc M. Carvajal (@Koykoy200078)
-- 👀 I’m interested in Computer World especialized in Software Development
+- 👀 I’m interested in Computer World specialized in Software Development
 - 🌱 I’m currently learning
   - Python
   - Java
