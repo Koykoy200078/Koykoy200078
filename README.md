@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Christian Franc M. Carvajal (@Koykoy200078)
 - 👀 I’m interested in Computer World specialized in Software Development
-- 🌱 I’m currently learning
+- 🌱 I’m advanced learner;
   - Python
   - Java
-  - Kotlin (Android)
+  - Kotlin
   - Flutter/Dart
   - C/C++
   - .Net
