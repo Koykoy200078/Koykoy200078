@@ -8,6 +8,8 @@
   - C/C++
   - .Net
   - C#.Net
+  - Laravel Framework
+  - API
   
   With basic knowledge of
   - HTML
