@@ -7,14 +7,15 @@
   - Flutter/Dart
   - C/C++
   - .Net
-  - C#.Net
+  - C#
   - Laravel Framework
   - API
-  
-  With basic knowledge of
   - HTML
   - CSS
+  - PHP
   - Java Script
+  
+  With basic knowledge of;
   - Ruby
   
 - 📫 You can reach me @ franc200078@gmail.com
