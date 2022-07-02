@@ -20,7 +20,7 @@
   - HTML
   - CSS
   - PHP
-  - Java Script
+  - JavaScript
   
   With basic knowledge of;
   - Ruby
