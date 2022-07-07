@@ -9,9 +9,8 @@
   - To acquire new valuable knowledge and skills in any environment where I can apply my knowledge. To build a career that offers both challenge and growth with opportunities to expand my knowledge and skills by using them in a working environment that simulates the real world.
 - 🌱 I’m advanced learner;
   - Python 
-  - Java
-  - Kotlin
-  - Flutter/Dart
+  - Android: Java/Kotlin
+  - Flutter: Dart
   - C/C++
   - .Net
   - C#
@@ -20,10 +19,10 @@
   - HTML
   - CSS
   - PHP
-  - JavaScript
   
   With basic knowledge of;
   - Ruby
+  - JavaScript
   
 - 📫 You can reach me @ franc200078@gmail.com
 
