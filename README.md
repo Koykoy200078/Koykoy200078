@@ -19,10 +19,10 @@
   - HTML
   - CSS
   - PHP
+  - React Native
   
   With basic knowledge of;
   - Ruby
-  - JavaScript
   
 - 📫 You can reach me @ franc200078@gmail.com
 
