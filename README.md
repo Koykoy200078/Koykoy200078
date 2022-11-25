@@ -2,9 +2,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Koykoy200078&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Koykoy200078" 
     bg_color=#808080/>
-    
-    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=Koykoy200078&style=flat-square&color=0088cc" alt="Koykoy200078"/>
-</p> 
+ </p> 
+ <p><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=Koykoy200078&style=flat-square&color=0088cc" alt="Koykoy200078"/></p> 
     
 -  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> Hi, I’m @Christian Franc M. Carvajal (@Koykoy200078)
 - 👀 I’m interested in Computer World specialized in Software Development
