@@ -12,18 +12,14 @@
   - Python 
   - Android: Java/Kotlin
   - Flutter: Dart
+  - React Native
   - C/C++
-  - .Net
+  - .Net Framework
   - C#
   - Laravel Framework
   - API
-  - HTML
-  - CSS
   - PHP
-  - React Native
-  
-  With basic knowledge of;
-  - Ruby
+ 
   
 - 📫 You can reach me @ franc200078@gmail.com
 
