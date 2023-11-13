@@ -26,7 +26,6 @@
 <h3>Statistical Data :</h3>
 <div align="center">
 <p><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Koykoy200078&style=flat-square&color=0088cc" alt="Koykoy200078"/></p> 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koykoy200078&theme=redical&hide_border=true&area=true" alt="Koykoy200078"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Koykoy200078&theme=radical" alt="Koykoy200078"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Koykoy200078&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Koykoy200078" /></p>
